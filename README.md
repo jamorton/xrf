@@ -1,9 +1,9 @@
 
-**X**RF is **R**ealtime **F**lash
----------------------------------
+XRF Project
+===========
 
-XRF is a realtime flash game engine, which is different from most other
-server software in a couple of ways:
+XRF (a recursive acronym for "XRF is Realtime Flash") is a realtime flash game engine,
+which is different from most other server software in a couple of ways:
 
  * All game logic is implemented server side. This is primarily for security
    reasons; the clients are only responsible for implementing UI code and
